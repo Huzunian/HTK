@@ -1,0 +1,6 @@
+Extension Downloader
+https://standaloneinstaller.com/online-tools/crx-downloader
+Artoo
+https://medialab.github.io/artoo/quick_start/
+Repo Download
+https://huzunian.github.io/downgit/
